@@ -159,7 +159,7 @@ https://templatemo.com/tm-516-known
 
   section {
     position: relative;
-    padding: 100px 0;
+    padding: 40px 0;
   }
 
   #team,
@@ -242,7 +242,7 @@ https://templatemo.com/tm-516-known
     animation: spinner .9s linear infinite;
   }
 
-  @-webkit-@keyframes spinner {
+  @-webkit-keyframes spinner {
     to {transform: rotate(360deg);}
   }
 
@@ -503,6 +503,7 @@ https://templatemo.com/tm-516-known
   }
 
   #courses .owl-theme .owl-nav [class*=owl-] {
+    background-color: #1392c7;
     border-radius: 2px;
     font-size: 16px;
     width: 30px;
