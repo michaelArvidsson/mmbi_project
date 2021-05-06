@@ -35,7 +35,6 @@ https://templatemo.com/tm-516-known
   h2 {
     color: #353535;
     font-size: 2em;
-    padding-bottom: 10px;
   }
 
   h3 {
@@ -91,7 +90,7 @@ https://templatemo.com/tm-516-known
 
   ::-webkit-scrollbar-thumb {
     cursor: pointer;
-    background: #000000;
+    background: #1392c7;
   }
 
   .section-title {
@@ -394,8 +393,7 @@ https://templatemo.com/tm-516-known
     background-image: url(../images/slider-image3.jpg);
   }
 
-
-
+  
   /*---------------------------------------
       FEATURE              
   -----------------------------------------*/
@@ -741,7 +739,7 @@ https://templatemo.com/tm-516-known
 
   footer {
     background: #252020;
-    padding: 120px 0;
+    padding: 50px 0;
   }
 
   footer .section-title {
